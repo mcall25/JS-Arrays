@@ -261,7 +261,7 @@ for(var i = 0; i < num1; i++){
 for(var i = 0; i < num2; i++){
   arr2.push(i);
 }
-//Above is some code that adds a random number of values to both arr1 and arr2.
+//Above is some code that adds a random number of values to both arr1 and arr.
 //Write a function called 'longer' that is given arr1 and arr2 as it's only arguments. Return the array which is longest.
 
   //Code Here
